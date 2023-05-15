@@ -22,7 +22,7 @@ from sklearn.linear_model import LogisticRegression
 ```python
 #load dataset Breast Cancer
 
-Loan_df = pd.read_excel('D:/Mahdieh_CourseUniversity/University_courses/ALY6020/Module_3/Mid_Week/Bank_Personal_Loan_Modelling.xlsx')
+Loan_df = pd.read_excel('D:/Bank_Personal_Loan_Modelling.xlsx')
 Loan_df
 ```
 
